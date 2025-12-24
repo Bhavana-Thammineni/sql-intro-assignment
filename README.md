@@ -8,6 +8,5 @@ Instructor: Gopi
 - CREATE TABLE
 - INSERT statements
 - SELECT queries
-- WHERE condition
 
 This repository contains the SQL Intro assignment for 10000 Coders.
